@@ -1,4 +1,4 @@
-package step1.module1;
+package ru.aston.training.step1.module1;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ public final class ImmutableList {
     private final List<Integer> integers;
 
     public ImmutableList(List<Integer> integers) {
-        this.size = integers.size();
-        this.integers = List.copyOf(integers);
+        this.integers = (integers == null) ? List.of() : List.copyOf(integers);
+        this.size = this.integers.size();
     }
 
     public List<Integer> getIntegers() {
