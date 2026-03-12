@@ -1,0 +1,93 @@
+[ {
+  "name" : "Алексей Петров",
+  "books" : [ {
+    "title" : "Чистый код",
+    "year" : 2008,
+    "pageCount" : 464
+  }, {
+    "title" : "Рефакторинг",
+    "year" : 1999,
+    "pageCount" : 448
+  }, {
+    "title" : "Философия Java",
+    "year" : 2006,
+    "pageCount" : 638
+  }, {
+    "title" : "Алгоритмы",
+    "year" : 2009,
+    "pageCount" : 1312
+  }, {
+    "title" : "Spring в действии",
+    "year" : 2020,
+    "pageCount" : 520
+  } ]
+}, {
+  "name" : "Мария Сидорова",
+  "books" : [ {
+    "title" : "Преступление и наказание",
+    "year" : 1866,
+    "pageCount" : 672
+  }, {
+    "title" : "Идиот",
+    "year" : 1868,
+    "pageCount" : 640
+  }, {
+    "title" : "Чистый код",
+    "year" : 2008,
+    "pageCount" : 464
+  }, {
+    "title" : "Мастер и Маргарита",
+    "year" : 1967,
+    "pageCount" : 480
+  }, {
+    "title" : "Анна Каренина",
+    "year" : 1877,
+    "pageCount" : 864
+  } ]
+}, {
+  "name" : "Дмитрий Иванов",
+  "books" : [ {
+    "title" : "Хоббит",
+    "year" : 1937,
+    "pageCount" : 310
+  }, {
+    "title" : "Братство Кольца",
+    "year" : 1954,
+    "pageCount" : 423
+  }, {
+    "title" : "Две крепости",
+    "year" : 1954,
+    "pageCount" : 352
+  }, {
+    "title" : "Возвращение короля",
+    "year" : 1955,
+    "pageCount" : 416
+  }, {
+    "title" : "Сильмариллион",
+    "year" : 1977,
+    "pageCount" : 365
+  } ]
+}, {
+  "name" : "Елена Смирнова",
+  "books" : [ {
+    "title" : "Хоббит",
+    "year" : 1937,
+    "pageCount" : 310
+  }, {
+    "title" : "Чистый код",
+    "year" : 2008,
+    "pageCount" : 464
+  }, {
+    "title" : "1984",
+    "year" : 1949,
+    "pageCount" : 328
+  }, {
+    "title" : "О дивный новый мир",
+    "year" : 1932,
+    "pageCount" : 288
+  }, {
+    "title" : "451 градус по Фаренгейту",
+    "year" : 1953,
+    "pageCount" : 158
+  } ]
+} ]
